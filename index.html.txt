@@ -1,0 +1,81 @@
+!DOCTYPE html
+html lang=en
+head
+  meta charset=UTF-8
+  titlePrivacy Policy - Data Retrieval Spacetitle
+  style
+    body {
+      font-family Arial, sans-serif;
+      line-height 1.6;
+      max-width 800px;
+      margin 40px auto;
+      padding 0 20px;
+      color #333;
+    }
+    h1, h2 {
+      color #004080;
+    }
+    h1 {
+      border-bottom 2px solid #ccc;
+      padding-bottom 10px;
+    }
+    p {
+      margin-bottom 1em;
+    }
+  style
+head
+body
+
+  h1Privacy Policyh1
+  pstrongEffective Datestrong [Insert Date]p
+
+  pAt strongData Retrieval Spacestrong (we, our, or us), we are committed to protecting the privacy of individuals who use our data collection services. This Privacy Policy outlines how we collect, use, share, and protect your information when you interact with our services, particularly through WhatsApp and automated tools like n8n.p
+
+  h21. Information We Collecth2
+  pWe collect the following types of personal and financial datap
+  ul
+    listrongUser Informationstrong WhatsApp display nameli
+    listrongReceipt Detailsstrong Vendor name, description of goods and services, tax base, GST amount, and other financial information contained in submitted receipts or tax invoicesli
+    listrongMetadatastrong Submission timestamps and delivery logs (via WhatsApp or other platforms)li
+  ul
+
+  h22. How We Collect Datah2
+  pYour data is collected when you submit images of receipts or invoices through WhatsApp. We use automated tools including strongn8nstrong to extract relevant financial data using Optical Character Recognition (OCR) and other workflow automation services. Other applications may be integrated as necessary to support this process.p
+
+  h23. Why We Collect Your Datah2
+  pWe collect and process your information in order top
+  ul
+    liFacilitate the preparation of expense reports for reimbursementli
+    liSupport Finance and Accounts Payable (AP) workflow processesli
+    liImprove operational efficiency and service accuracyli
+  ul
+
+  h24. Data Sharingh2
+  pWe do strongnotstrong sell or share your personal information with third parties for marketing purposes.br
+  Your data is shared strongonlystrong with the strongFinance department of the companystrong that you are employed under, for reimbursement and accounting purposes.p
+
+  h25. User Rights and Choicesh2
+  ul
+    listrongAccess and Usagestrong You may access and use our services via WhatsApp.li
+    listrongOpt-Outstrong You may opt out of using our services at any time by ceasing to submit data.li
+    listrongData Retentionstrong Submitted data will be retained in accordance with our internal deletion cycle policies. We do not offer immediate deletion upon request.li
+  ul
+
+  h26. Cookies and Trackingh2
+  pAt this time, cookies and tracking tools may be used if you access any associated web-based services. If so, additional disclosures will be provided at the point of interaction.p
+
+  h27. Securityh2
+  pWe use appropriate technical and organizational measures to protect your data from unauthorized access, alteration, or disclosure. However, no method of data transmission or storage is 100% secure.p
+
+  h28. Children’s Privacyh2
+  pOur services are not intended for individuals under the age of 18. We do not knowingly collect data from children.p
+
+  h29. Changes to This Policyh2
+  pWe may update this Privacy Policy from time to time. Updates will be reflected by the “Effective Date” at the top of this page. Continued use of the service after changes constitutes acceptance of the new policy.p
+
+  h210. Contact Ush2
+  pIf you have any questions or concerns about this Privacy Policy, please contactp
+     Email thomastay@tak.com.sgbr
+
+body
+html
